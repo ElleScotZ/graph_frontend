@@ -20,6 +20,7 @@
     "eject": "react-scripts eject",
     "eslint-check": "eslint --print-config path/to/main.js | eslint-config-prettier-check"
   },
+  "homepage": "http://ellescotz.github.io/graph_frontend",
   "eslintConfig": {
     "extends": [
       "react-app"
