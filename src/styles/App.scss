@@ -1,0 +1,20 @@
+@import "Common.scss";
+
+body {
+  background-color: $main-bg !important;
+  color: $font-color !important;
+  font-family: "Roboto", sans-serif;
+}
+
+.main {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  max-height: 100vh;
+  // overflow: hidden;
+}
+
+.right {
+  width: 67%;
+}

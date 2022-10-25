@@ -1,0 +1,19 @@
+.param {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  margin: 7px 25px 0 25px;
+
+  &Input {
+    width: 160px;
+  }
+
+  &__solution {
+    margin-top: 2rem;
+
+    &_disabled {
+      color: lightgray;
+    }
+  }
+}
