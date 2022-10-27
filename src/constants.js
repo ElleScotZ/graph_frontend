@@ -1,1 +1,1 @@
-export const url = "http://localhost:8080/"; // Go app's url. Making sure to include '/' at the end for future use.
+export const url = "https://graphbackend.herokuapp.com/"; // Go app's url. Must include '/' at the end for future use.
