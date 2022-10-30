@@ -14,13 +14,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "eject": "react-scripts eject",
     "eslint-check": "eslint --print-config path/to/main.js | eslint-config-prettier-check"
   },
-  "homepage": "http://ellescotz.github.io/graph_frontend",
   "eslintConfig": {
     "extends": [
       "react-app"
