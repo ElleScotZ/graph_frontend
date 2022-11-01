@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/graph_frontend/static/css/main.2c6d8558.css",
+    "main.js": "/graph_frontend/static/js/main.59839119.js",
+    "index.html": "/graph_frontend/index.html",
+    "main.2c6d8558.css.map": "/graph_frontend/static/css/main.2c6d8558.css.map",
+    "main.59839119.js.map": "/graph_frontend/static/js/main.59839119.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c6d8558.css",
+    "static/js/main.59839119.js"
+  ]
+}
