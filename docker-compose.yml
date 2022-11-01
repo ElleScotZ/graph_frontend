@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  frontend:
+    container_name: graph-analysis-frontend
+    restart: on-failure
+    build:
+      context: .
+    ports:
+      - "3000:3000"
+    networks:
+      - fullstack
+
+networks:
+  fullstack:
+    driver: bridge
