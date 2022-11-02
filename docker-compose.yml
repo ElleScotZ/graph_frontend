@@ -8,9 +8,3 @@ services:
       context: .
     ports:
       - "3000:3000"
-    networks:
-      - fullstack
-
-networks:
-  fullstack:
-    driver: bridge
