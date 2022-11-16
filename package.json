@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
+  "homepage": "http://34.76.180.95",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.2.1",
