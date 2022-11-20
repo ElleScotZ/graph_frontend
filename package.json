@@ -12,6 +12,7 @@
     "react-svg-to-image": "^3.0.0",
     "sass": "^1.55.0"
   },
+  "homepage": "http://34.76.180.95/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
